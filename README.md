@@ -112,7 +112,9 @@ python Totflite.py --weights runs/train/weights/best.pt
 
 | 輸入影像                    | 輸出影像                       |
 |-----------------------------|--------------------------------|
-|![IMG_20240516_153723_jpg rf 6d9b870075cd4f92dc99e03b042ef21d](https://github.com/user-attachments/assets/27eda09e-dce7-4b90-be29-ea1a5917f6da)| ![IMG_20240516_153723_jpg rf 6d9b870075cd4f92dc99e03b042ef21d](https://github.com/user-attachments/assets/a6a631c1-8d2b-4e5e-929f-bd5cd872464b)|
+|![IMG_20240516_153723_jpg rf 6d9b870075cd4f92dc99e03b042ef21d](https://github.com/user-attachments/assets/27eda09e-dce7-4b90-be29-ea1a5917f6da)| ![IMG_20240516_153723_jpg rf 6d9b870075cd4f92dc99e03b042ef21d](https://github.com/user-attachments/assets/a6a631c1-8d2b-4e5e-929f-bd5cd872464b)|![IMG_8119](https://github.com/user-attachments/assets/77201db8-7101-47a2-afb9-f7839588295b)
+|![IMG_8119](https://github.com/user-attachments/assets/1e078d6b-1acd-47af-8459-ab1c95923634)
+
 
 ---
 
